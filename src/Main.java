@@ -20,10 +20,6 @@ public class Main {
         Sum sum = new Sum();
         sum.addition();*/
 
-    /*public static void main(String[] args) {
-        Sum sum = new Sum();
-        sum.addition();*/
-
    /*public static void main(String[] args) {
         Words words = new Words();
         words.Codeword();*/
@@ -38,10 +34,8 @@ public class Main {
 
     /*public static void main(String[] args) {
         SumElementov sumElementov = new SumElementov();
-        sumElementov.sloj();
-        }*/
-}
-}
+        sumElementov.sloj();*/
+    }
 
 
 
