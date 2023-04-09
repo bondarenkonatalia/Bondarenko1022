@@ -1,16 +1,17 @@
-import homeWork1.Alphabet;
-import homeWork1.Seasons;
-import homeWork1.Sum;
-import homeWork1.Words;
-import homeWork2.Difference;
-import homeWork2.Fibonachi;
-import homeWork2.SumElementov;
+import homeWork3.CheckSeason;
 
 public class Main {
+    public static void main(String[] args) {
+
+        CheckSeason checkSeason = new CheckSeason();
+        checkSeason.CheckSeason();
+    }
+}
 
     /*public static void main(String[] args) {
         Alphabet alfabet = new Alphabet();
-        alfabet.letter();*/
+        alfabe
+        t.letter();*/
 
     /*public static void main(String[] args) {
         Seasons season = new Seasons();
@@ -35,7 +36,6 @@ public class Main {
     /*public static void main(String[] args) {
         SumElementov sumElementov = new SumElementov();
         sumElementov.sloj();*/
-    }
 
 
 
