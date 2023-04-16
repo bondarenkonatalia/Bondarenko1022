@@ -6,15 +6,11 @@ public class SumElementov {
 
     public void sloj() {
         {
-            int[] A = {6, 8, 3, 5, 1, 9};
+            int[] aray = {6, 8, 3, 5, 1, 9};
+            Arrays.sort(aray);
+            int sum = aray[0] + aray[aray.length-1];
 
-            int max = Arrays.stream(A).max().getAsInt();
-
-            int min = Arrays.stream(A).min().getAsInt();
-
-            System.out.println("Min element is " + min);
-            System.out.println("Max element is " + max);
-            System.out.println("Sum = " + (min + max));
+            System.out.println(sum);
         }
     }
 }
