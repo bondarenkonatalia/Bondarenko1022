@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0ca6cd5-987a-485c-88a9-19243cad3f3f" name="Changes" comment="add new homWord3">
-      <change afterPath="$PROJECT_DIR$/src/homeWork3/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork3/Massif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork3/OverloadedMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork3/USER.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork3/User1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork3/seasons/MONTH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork3/seasons/NewSeason.java" afterDir="false" />
+    <list default="true" id="f0ca6cd5-987a-485c-88a9-19243cad3f3f" name="Changes" comment="add new homWork3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homeWork2/Difference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork2/Difference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork2/Fibonachi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork2/Fibonachi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork3/Masiv.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +136,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681033287776</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add new homWord3">
+      <created>1681320554091</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681320554091</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add new homWork3">
+      <created>1681659266828</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681659266828</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add new homWork3">
+      <created>1681659337022</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681659337022</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -187,7 +199,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new homWorc2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new homWorc2" />
+    <MESSAGE value="add new homWord3" />
+    <MESSAGE value="add new homWork3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new homWork3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Bondarenko1022$task1.ic" NAME="task1 Coverage Results" MODIFIED="1680199343383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
